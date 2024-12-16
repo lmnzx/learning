@@ -1,2 +1,2 @@
-# learning-dsa
-just trying to learn dsa 
+# learning
+just trying to learn
